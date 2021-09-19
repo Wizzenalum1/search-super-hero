@@ -1,9 +1,14 @@
 # search SuperHero and make them favorite
+## usage
+1. click [here](https://wizzenalum.github.io/search-super-hero/) 
+2. now you just type your favorite superhero name and hit enter or click on search.
+3. you can superhero your favorite
+4. To know more about the super hero click more.
+5. that's it.....  
 
-before going ahead visit the [Demo](https://wizzenalum1.github.io/superhero)
-
-> To recreate this you can visit my [youtube](wizzenalum.com).
-> Recreation will need vanila javascript, html, css only also need to create the token number to use [superhero-Api](https://www.superheroapi.com/).
+## For developers
+> To know in depth about this, you can visit my [youtube](wizzenalum.com).
+> Recreation of the application will need vanila javascript, html, css only also need to create the token number to use [superhero-Api](https://www.superheroapi.com/).
 
 ## Folder structure
 

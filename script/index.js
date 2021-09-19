@@ -13,7 +13,7 @@ export const handleXMLRequest = function (event, state) {
   // this will handle the loaded responce of the search.
   if (event && event.target && event.target.response) {
     let data = JSON.parse(event.target.response);
-    console.log(data, state.searchList);
+    // console.log(data, state.searchList);
     if (data.response === "success" && data.results) {
       state.searchList = data.results;
     } else state.searchList = "Nothing found for this search...";
@@ -74,7 +74,7 @@ const handleToggleHero = function (event) {
 };
 const handleNavigation = function (event) {
   // hnadle the click on home and favorite navigation.
-  console.log(event.target.id);
+  // console.log(event.target.id);
   if (state.currentWindow != event.target.id) {
     state.currentWindow = event.target.id;
     render();
@@ -135,7 +135,7 @@ let manageListners = () => {
 let content = document.body;
 const render = () => {
   // render the page
-  console.log("current state", state);
+  // console.log("current state", state);
   content.innerHTML = rootComponent(state);
   manageListners();
 };
