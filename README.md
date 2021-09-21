@@ -7,7 +7,7 @@
 5. That's it..... NOW, visit [here](https://wizzenalum.github.io/search-super-hero/) 
 
 ## For developers
-> To know in depth about this application, you can visit my [youtube-video](wizzenalum.com). \
+> To know in depth about this application, you can visit my [youtube-video](https://youtu.be/e4N5PMvieXs). \
 > Recreation of the application will need vanila javascript, html, css only also need to create the token number to use [superhero-Api](https://www.superheroapi.com/).
 
 ## Folder structure
